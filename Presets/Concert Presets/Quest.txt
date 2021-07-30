@@ -1,0 +1,2 @@
+Q: Can i use this soundfont for Black MIDI?
+A: Yes
